@@ -1,4 +1,4 @@
-<img src="assets/octoleonardo.png" width="300px">
+![octocat](https://i.ibb.co/sywTkfR/trentzzoctocat.png)
 
 # 🧙‍♂️ E aí dev, beleza?
 
