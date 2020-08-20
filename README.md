@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./github-profile.svg" width="300">
+  <img src="https://raw.githubusercontent.com/LeonardoCampello-dev/LeonardoCampello-dev/17fff1b5a4b4e2f4d0914937a92ca5030e6d96bf/github-profile.svg" width="300">
 </h1>
 
 # 👨‍💻 E aí dev, beleza?
