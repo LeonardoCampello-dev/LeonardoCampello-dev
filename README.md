@@ -12,7 +12,7 @@
 
 📚 Técnico em Informática pela [QI Faculdade & Escola Técnica](https://qi.edu.br/).
 
-🚀 Estudante do bootcamp LaunchBase, da [Rocketseat](https://rocketseat.com.br/).
+🚀 Estudante do ecossistema JavaScript.
 
 🏆 Meus pontos fortes são criatividade, curiosidade, organização e vontade de fazer algo que impacte na vida das pessoas.
 
@@ -27,6 +27,8 @@
 - [x] Git & Github
 - [x] Express.js  
 - [x] Bulma 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCampello-dev&layout=compact&bg_color=2f3437&text_color=04D361&title_color=efefef&hide_border=true&custom_title=Linguagens%20mais%20usadas)](https://github.com/LeonardoCampello-dev/github-readme-stats)
 
 ## Precisando de ajuda?  
 
