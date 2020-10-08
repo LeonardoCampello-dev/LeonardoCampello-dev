@@ -6,7 +6,7 @@
 
 ## Quem sou eu? 
 
-👋 Meu nome é Leonardo Campello e tenho 19 anos.
+👋 Meu nome é Leonardo Campello e tenho 20 anos.
 
 🗺 Natural do Rio Grando do Sul, atualmente morando em Novo Hamburgo.
 
