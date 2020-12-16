@@ -1,9 +1,11 @@
-<img src="./image.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Programador">
+<img src="./image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programador">
+
+## E aí dev, tranquilo?
 
 <p align="left"> 
   Meu nome é Leonardo Campello e tenho 20 anos. Natural do Rio Grande do Sul, atualmente Morando em Novo Hamburgo. Técnico em Informática pela QI Faculdade & Escola Técnica.
 
-  Desenvolvedor e estudante do ecossistema JavaScript.
+  Desenvolvedor e estudante do ecossistema JavaScript. 👨🏻‍💻
 </p>
 
 <p align="left">
@@ -42,7 +44,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-campello-6151a71a5/" />
   </a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/leonardo.campellorodrigues/" alt="Facebook">
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardo.campellorodrigues/"/>
   </a>
 </p>  
