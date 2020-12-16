@@ -1,55 +1,49 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/LeonardoCampello-dev/LeonardoCampello-dev/17fff1b5a4b4e2f4d0914937a92ca5030e6d96bf/github-profile.svg" width="300">
-</h1>
+<img src="./image.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Programador">
 
-# 👨‍💻 E aí dev, beleza?
+<p align="left"> 
+  Meu nome é Leonardo Campello e tenho 20 anos. Natural do Rio Grande do Sul, atualmente Morando em Novo Hamburgo. Técnico em Informática pela QI Faculdade & Escola Técnica.
 
-## Quem sou eu? 
+  Desenvolvedor e estudante do ecossistema JavaScript.
+</p>
 
-👋 Meu nome é Leonardo Campello e tenho 20 anos.
+<p align="left">
+  
+  ## Tecnologias 
 
-🗺 Natural do Rio Grando do Sul, atualmente morando em Novo Hamburgo.
+  ### 🔨 Tenho experiência
 
-📚 Técnico em Informática pela [QI Faculdade & Escola Técnica](https://qi.edu.br/).
+  - [x] JavaScript
+  - [x] NodeJS
+  - [x] PostgreSQL
+  - [x] HTML & CSS
+  - [x] Git & GitHub   
 
-🚀 Estudante do ecossistema JavaScript.
+  ### 📚 Estou estudando
 
-🏆 Meus pontos fortes são criatividade, curiosidade, organização e vontade de fazer algo que impacte na vida das pessoas.
+  - ReactJS
 
-🧩 Alguns dos meus hobbies são games, esportes, ouvir músicas e cozinhar.
+  ### 📦 Tenho interesse em aprender
 
-## Meus conhecimentos  
+  - [ ] React Native
+  - [ ] TypeScript
+  - [ ] Gatsby
+  - [ ] Sass
+</p>
 
-- [x] JavaScript 
-- [x] Node.js 
-- [x] PostgreSQL 
-- [x] HTML5 & CSS
-- [x] Git & Github
-- [x] Express.js  
-- [x] Bulma 
+<p align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCampello-dev&layout=compact&bg_color=2f3437&text_color=04D361&title_color=efefef&hide_border=true&custom_title=Linguagens%20mais%20usadas)](https://github.com/LeonardoCampello-dev/github-readme-stats)
+  ## Precisando de ajuda? 
 
-## Precisando de ajuda?  
+  Estou disponível para ajudar e compartilhar conhecimento. Tenho certeza que ajudando o próximo também vou aprender muito! 🦸‍♂️
+</p>
 
-Estou disponível para ajudar e compartilhar conhecimento. Tenho certeza que ajudando o próximo também vou aprender muito! 🦸‍♂️
-
----
-
-<h1 align="center">
-  <a href="https://www.linkedin.com/in/leonardo-campello-6151a71a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&labelColor=blue">
+<p align="left">
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-campello-6151a71a5/" />
   </a>
-  <a href="mailto:leonardocampello.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&labelColor=white">
+
+  <a href="#" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardo.campellorodrigues/"/>
   </a>
-</h1>
-
-
-
-
-
-
-
-
+</p>  
 
