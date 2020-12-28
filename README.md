@@ -28,8 +28,9 @@
 
   - [ ] React Native
   - [ ] TypeScript
+  - [ ] Next.js
   - [ ] Gatsby
-  - [ ] Sass
+
 </p>
 
 <p align="left">
