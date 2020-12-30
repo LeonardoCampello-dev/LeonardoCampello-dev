@@ -5,8 +5,7 @@
 <p align="left"> 
   
     Tenho 20 anos; 
-    Natural do Rio Grande do Sul; 
-    Atualmente Morando em Novo Hamburgo; 
+    Natural do Rio Grande do Sul, atualmente morando em Novo Hamburgo; 
     Técnico em Informática pela QI Faculdade & Escola Técnica;
     Desenvolvedor e estudante do ecossistema JavaScript. 
 
@@ -19,7 +18,7 @@
   ### Tenho experiência 👨🏻‍💻
 
   - [x] JavaScript
-  - [x] NodeJS
+  - [x] Node
   - [x] PostgreSQL
 
 
