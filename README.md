@@ -1,4 +1,4 @@
-<img src="./art.svg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./art.svg" min-width="350px" max-width="350px" width="350px" align="right">
 
 ## Leonardo Campello 🤘🏻
 
@@ -8,7 +8,7 @@
     Natural do Rio Grande do Sul; 
     Atualmente Morando em Novo Hamburgo; 
     Técnico em Informática pela QI Faculdade & Escola Técnica;
-    Desenvolvedor e estudante do ecossistema JavaScript. 👨🏻‍
+    Desenvolvedor e estudante do ecossistema JavaScript. 
 
 </p>
 
@@ -16,18 +16,18 @@
   
   ## Tecnologias 
 
-  ### 🔨 Tenho experiência
+  ### Tenho experiência 👨🏻‍💻
 
   - [x] JavaScript
   - [x] NodeJS
   - [x] PostgreSQL
 
 
-  ### 📚 Estou estudando
+  ### Estou estudando 📖
 
   - ReactJS
 
-  ### 📦 Tenho interesse em aprender
+  ### Tenho interesse em aprender 📦
 
   - [ ] React Native
   - [ ] TypeScript
@@ -43,7 +43,9 @@
   Estou disponível para ajudar e compartilhar conhecimento. Tenho certeza que ajudando o próximo também vou aprender muito! 🦸‍♂️
 </p>
 
-<p align="left">
+<hr>
+
+<p align="center">
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-campello-6151a71a5/" />
   </a>
