@@ -1,11 +1,15 @@
-<img src="./image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programador">
+<img src="./work.png" min-width="400px" max-width="400px" width="400px" align="right" style="border-radius: 88px;">
 
-## E aí dev, tranquilo?
+## Leonardo Campello 🤘🏻
 
 <p align="left"> 
-  Meu nome é Leonardo Campello e tenho 20 anos. Natural do Rio Grande do Sul, atualmente Morando em Novo Hamburgo. Técnico em Informática pela QI Faculdade & Escola Técnica.
 
-  Desenvolvedor e estudante do ecossistema JavaScript. 👨🏻‍💻
+    Tenho 20 anos;
+    Natural do Rio Grande do Sul;
+    Atualmente Morando em Novo Hamburgo;
+    Técnico em Informática pela QI Faculdade & Escola Técnica;
+    Desenvolvedor e estudante do ecossistema JavaScript. 
+
 </p>
 
 <p align="left">
