@@ -17,23 +17,20 @@
   ## Tecnologias 
 
   ### 🔨 Tenho experiência
-
-  - [x] JavaScript
-  - [x] NodeJS
-  - [x] PostgreSQL
-  - [x] HTML & CSS
-  - [x] Git & GitHub   
+  
+  - [x] ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - [x] ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  - [x] ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
   ### 📚 Estou estudando
 
-  - ReactJS
+  - ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
   ### 📦 Tenho interesse em aprender
 
-  - [ ] React Native
-  - [ ] TypeScript
-  - [ ] Next.js
-  - [ ] Gatsby
+  - [ ] ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - [ ] ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - [ ] ![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
 </p>
 
