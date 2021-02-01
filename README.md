@@ -7,39 +7,40 @@
     Tenho 20 anos; 
     Natural do Rio Grande do Sul, atualmente morando em Novo Hamburgo; 
     Técnico em Informática pela QI Faculdade & Escola Técnica;
-    Desenvolvedor e estudante do ecossistema JavaScript. 
+    Desenvolvedor e estudante do ecossistema JavaScript.
 
 </p>
 
 <p align="left">
   
-  ## Tecnologias 
+  ## Tecnologias
 
-  ### Tenho experiência 👨🏻‍💻
+### Tenho experiência 👨🏻‍💻
 
-  - [x] JavaScript
-  - [x] Node
-  - [x] PostgreSQL
+- [x] JavaScript
+- [x] Node
+- [x] PostgreSQL
 
+### Estou estudando 📖
 
-  ### Estou estudando 📖
+- ReactJS
 
-  - ReactJS
+### Tenho interesse em aprender 📦
 
-  ### Tenho interesse em aprender 📦
-
-  - [ ] React Native
-  - [ ] TypeScript
-  - [ ] Next.js
-  - [ ] Gatsby
+- [ ] TypeScript
+- [ ] Next.js
+- [ ] React Native
+- [ ] AWS
+- [ ] MongoDB
 
 </p>
 
 <p align="left">
 
-  ## Precisando de ajuda? 
+## Precisando de ajuda?
 
-  Estou disponível para ajudar e compartilhar conhecimento. Tenho certeza que ajudando o próximo também vou aprender muito! 🦸‍♂️
+Estou disponível para ajudar e compartilhar conhecimento. Tenho certeza que ajudando o próximo também vou aprender muito! 🦸‍♂️
+
 </p>
 
 <hr>
@@ -52,5 +53,4 @@
   <a href="https://www.facebook.com/leonardo.campellorodrigues/" alt="Facebook">
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardo.campellorodrigues/"/>
   </a>
-</p>  
-
+</p>
