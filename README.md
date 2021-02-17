@@ -13,25 +13,24 @@
 
 <p align="left">
   
-  ## Tecnologias
+## Tecnologias
 
 ### Tenho experiência 👨🏻‍💻
 
 - [x] JavaScript
-- [x] Node
+- [x] Node.js
 - [x] PostgreSQL
 
 ### Estou estudando 📖
 
 - ReactJS
+- TypeScript
 
 ### Tenho interesse em aprender 📦
 
-- [ ] TypeScript
 - [ ] Next.js
-- [ ] React Native
+- [ ] Design Patterns
 - [ ] AWS
-- [ ] MongoDB
 
 </p>
 
