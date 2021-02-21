@@ -30,6 +30,7 @@
 
 - [ ] Next.js
 - [ ] Design Patterns
+- [ ] SOLID
 - [ ] AWS
 
 </p>
