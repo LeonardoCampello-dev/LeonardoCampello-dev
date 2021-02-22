@@ -2,11 +2,7 @@
 
 🏢 Jr. Web Developer at **Compliance Total.** 
 
-<br> 
-
 [![leonardocampello-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocampello-dev&hide=html&layout=compact&theme=dracula)](https://github.com/leonardocampello-dev/)
-
-<hr>
   
 ## Technology
 
