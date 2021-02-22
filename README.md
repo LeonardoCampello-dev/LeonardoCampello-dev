@@ -1,56 +1,30 @@
-<img src="./art.svg" min-width="350px" max-width="350px" width="350px" align="right">
+## [Leonardo Campello](https://www.linkedin.com/in/leonardo-campello-6151a71a5/) 🤘🏻
 
-## Leonardo Campello 🤘🏻
+🏢 Jr. Web Developer at **Compliance Total.** 
 
-<p align="left"> 
+<br> 
+
+[![leonardocampello-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocampello-dev&hide=html&layout=compact&theme=dracula)](https://github.com/leonardocampello-dev/)
+
+<hr>
   
-    Tenho 20 anos; 
-    Natural do Rio Grande do Sul, atualmente morando em Novo Hamburgo; 
-    Técnico em Informática pela QI Faculdade & Escola Técnica;
-    Desenvolvedor e estudante do ecossistema JavaScript.
+## Technology
 
-</p>
-
-<p align="left">
-  
-## Tecnologias
-
-### Tenho experiência 👨🏻‍💻
-
-- [x] JavaScript
-- [x] Node.js
-- [x] PostgreSQL
-
-### Estou estudando 📖
+### I am studying 📖
 
 - ReactJS
 - TypeScript
 
-### Tenho interesse em aprender 📦
+### I am interested in learning 📦
 
 - [ ] Next.js
 - [ ] Design Patterns
 - [ ] SOLID
 - [ ] AWS
 
-</p>
+## Needing help?
 
-<p align="left">
+I am available to help and share knowledge. I'm sure that helping others will also learn a lot! 🤠
 
-## Precisando de ajuda?
+> **Note:** I still don't know English, but I'm studying for it.
 
-Estou disponível para ajudar e compartilhar conhecimento. Tenho certeza que ajudando o próximo também vou aprender muito! 🦸‍♂️
-
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-campello-6151a71a5/" />
-  </a>
-
-  <a href="https://www.facebook.com/leonardo.campellorodrigues/" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardo.campellorodrigues/"/>
-  </a>
-</p>
