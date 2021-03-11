@@ -10,12 +10,13 @@
 
 - ReactJS
 - TypeScript
+- SOLID
+- Design Patterns
 
 ### I am interested in learning 📦
 
 - [ ] Next.js
-- [ ] Design Patterns
-- [ ] SOLID
+- [ ] Deno
 - [ ] AWS
 
 ## Needing help?
