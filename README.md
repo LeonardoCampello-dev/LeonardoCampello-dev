@@ -8,15 +8,14 @@
 
 ### I am studying 📖
 
-- ReactJS
 - TypeScript
+- Jest
 - SOLID
-- Design Patterns
 
 ### I am interested in learning 📦
 
 - [ ] Next.js
-- [ ] Deno
+- [ ] Go
 - [ ] AWS
 
 ## Needing help?
