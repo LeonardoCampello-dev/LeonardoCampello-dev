@@ -1,4 +1,4 @@
-## [Leonardo Campello](https://www.linkedin.com/in/leonardo-campello-6151a71a5/) 🤘🏻
+## [Leonardo Campello](https://www.linkedin.com/in/leonardo-campello-6151a71a5/) 🧪
 
 🏢 Jr. Web Developer at **Compliance Total.** 
 
@@ -9,12 +9,12 @@
 ### I am studying 📖
 
 - TypeScript
+- Next.js
 - Jest
-- SOLID
 
 ### I am interested in learning 📦
 
-- [ ] Next.js
+- [ ] Deno
 - [ ] Go
 - [ ] AWS
 
