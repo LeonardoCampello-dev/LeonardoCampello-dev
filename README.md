@@ -10,13 +10,13 @@
 
 - TypeScript
 - Next.js
-- Jest
+- Unit tests
 
 ### I am interested in learning 📦
 
 - [ ] Deno
 - [ ] Go
-- [ ] AWS
+- [ ] CI/CD
 
 ## Needing help?
 
