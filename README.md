@@ -2,8 +2,6 @@
 
 ## Hey, i'm [Leonardo](https://www.linkedin.com/in/leonardo-campello-6151a71a5/) 🤠
 
-### Full Stack React and Node Developer at [Compliance Total](https://www.compliancetotal.com.br/).
-
 <div align='center' style='margin-bottom: 8px'>
   <span style='margin-right: 8px'>
     <img src='./.github/react.svg' width='20' />
@@ -22,6 +20,8 @@
   </span>
 
 </div>
+
+### Full Stack React and Node Developer at [Compliance Total](https://www.compliancetotal.com.br/).
 
 </div>
 
