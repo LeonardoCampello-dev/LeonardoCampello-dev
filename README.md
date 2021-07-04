@@ -25,13 +25,11 @@
 
 </div>
 
-<p align='center'>
-  <img 
-    src='https://media.giphy.com/media/KiXiO1iR3fFhC/giphy.gif'
-    width='300'
-    style='border-radius: 8px'
-  >
-</p>
+<div align='center'>
+
+![Alt Text](https://media.giphy.com/media/EtB1yylKGGAUg/source.gif)
+
+</div>
 
 - I'm 20 years old
 - I live in Novo Hamburgo - RS
