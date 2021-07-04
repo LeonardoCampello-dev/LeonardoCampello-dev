@@ -1,26 +1,52 @@
-## [Leonardo Campello](https://www.linkedin.com/in/leonardo-campello-6151a71a5/) 🧪
+<div align='center'>
 
-🏢 Jr. Web Developer at **Compliance Total.** 
+## Hey, i'm [Leonardo](https://www.linkedin.com/in/leonardo-campello-6151a71a5/) 🤠
 
-[![leonardocampello-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocampello-dev&hide=html&layout=compact&theme=dracula)](https://github.com/leonardocampello-dev/)
-  
-## Technology
+### Full Stack React and Node Developer at [Compliance Total](https://www.compliancetotal.com.br/).
 
-### I am studying 📖
+<div align='center' style='margin-bottom: 8px'>
+  <span style='margin-right: 8px'>
+    <img src='./.github/react.svg' width='20' />
+  </span>
 
-- TypeScript
-- Next.js
-- Unit tests
+  <span style='margin-right: 8px'>
+    <img src='./.github/next.svg' width='20' />
+  </span>
 
-### I am interested in learning 📦
+  <span style='margin-right: 8px'>
+    <img src='./.github/typescript.svg' width='20' />
+  </span>
 
-- [ ] Deno
-- [ ] Go
-- [ ] CI/CD
+  <span>
+    <img src='./.github/node.svg' width='20' />
+  </span>
 
-## Needing help?
+</div>
 
-I am available to help and share knowledge. I'm sure that helping others will also learn a lot! 🤠
+</div>
 
-> **Note:** I still don't know English, but I'm studying for it.
+<p align='center'>
+  <img 
+    src='https://media.giphy.com/media/KiXiO1iR3fFhC/giphy.gif'
+    width='300'
+    style='border-radius: 8px'
+  >
+</p>
 
+- I'm 20 years old
+- I live in Novo Hamburgo - RS
+- I really enjoy playing online, eating and listening to music
+- My favorite stack currently: [Jamstack](https://jamstack.org/what-is-jamstack/)
+- Technologies I want to learn: [Go](https://golang.org/) && [Deno](https://deno.land/)
+
+<div align='center'>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardocampello-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### Needing help? 😱
+
+I am available to help and share knowledge. I'm sure that helping others will also learn a lot!
+
+> Note: I still don't know English, but I'm studying for it.
